@@ -1,6 +1,6 @@
 🚀 Hi, I’m Aryan — curious mind, builder at heart.
 🎯 Currently: On a mission to create something new and meaningful.
-📍 Based in Canada | 🧠 Math @ Waterloo | 📦 Tinkering with ideas in AI, backend systems, and STEM education.
+📍 Based in Canada | 🧠 Maths + CS @ Waterloo | 📦 Tinkering with ideas in AI, backend systems, and STEM education.
 
 🌱 I’m Learning:
 Machine learning systems & transformer architectures
