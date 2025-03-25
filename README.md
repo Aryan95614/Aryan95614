@@ -1,6 +1,19 @@
+🚀 Hi, I’m Aryan — curious mind, builder at heart.
+🎯 Currently: On a mission to create something new and meaningful.
+📍 Based in Canada | 🧠 Math @ Waterloo | 📦 Tinkering with ideas in AI, backend systems, and STEM education.
 
+🌱 I’m Learning:
+Machine learning systems & transformer architectures
 
-- 👋 Hello, Nice to meet you! I am a programmer who loves to code GUIs, Partial Physics Enabled Engines and Dart/Flutter Applications
-- 🌱I code in Python(Servers and GUIs and Physics-based Engines), C++/C(For Competitive Programming), Java( My first OOP-based Languaged), Dart/Flutter( For Robotics),       HTML/CSS/Javascript/Flask( For coding websites).
-- 📫 Fun Fact, I recieved <b>Distinction in the Junior CCC and the BCC for the Waterloo CEMC Contests</b>
-- ⚡My Linkedin is: (https://www.linkedin.com/in/aryan-dhawan-36301b239/)
+Scalable backend design (C++, Rust, and Python experiments)
+
+Product management & strategy through real-world builds
+
+🛠️ I’m Working On:
+A new project (or three) I haven’t named yet but will soon
+
+💬 Let’s Chat About:
+Startups, hackathons, systems design, unconventional education, or just how to build cool stuff that works.
+
+📫 Reach me: a29dhawa@uwaterloo.ca
+🌐 More soon...
