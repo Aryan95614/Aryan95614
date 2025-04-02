@@ -5,7 +5,7 @@
 🌟 I am a software engineer at **Hackathons Canada**.  
 
 📬 How to contact me: You can reach me via email at [a29dhawa@uwaterloo.ca](mailto:a29dhawa@uwaterloo.ca) or connect with me on LinkedIn at [Aryan](https://www.linkedin.com/in/aryan-dhawan/).    
-🌐 Personal website: [https://brucewang1540.vercel.app/](https://aryanlikestocode.com/) 
+🌐 Personal website: [https://aryanlikestocode.com/](https://aryanlikestocode.com/) 
 
 ---
 
