@@ -16,5 +16,6 @@
 ---
 
 # 📊 GitHub Stats:
-
+![image](https://github.com/user-attachments/assets/c2505478-a422-48f9-8063-d4cf01ca33e8)
+![image](https://github.com/user-attachments/assets/88db420a-db5f-430e-90d7-1ff89761ccee)
 ![image](https://github.com/user-attachments/assets/d631e0f8-8e5b-4366-8d65-6c1ee3e082e4)
