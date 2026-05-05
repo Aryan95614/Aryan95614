@@ -1,8 +1,8 @@
 # ⚡ About Me:
 
-🎓 I am currently studying Maths + CS at the University of Waterloo.  
+🎓 I am currently studying AI + Statistics at the University of Waterloo.  
 💻 I am passionate about ML, Cloud + Backend Engineering. 
-🌟 I am a software engineer at **Hackathons Canada**.  
+🌟 I am an engineer at **GSoC '26 Metaflow** currently.  
 
 📬 How to contact me: You can reach me via email at [a29dhawa@uwaterloo.ca](mailto:a29dhawa@uwaterloo.ca) or connect with me on LinkedIn at [Aryan](https://www.linkedin.com/in/aryan-dhawan/).    
 🌐 Personal website: [https://aryanlikestocode.com/](https://aryanlikestocode.com/) 
